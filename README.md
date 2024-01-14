@@ -1,4 +1,4 @@
-# Uber Data Analysis Project using MAGE and Google Cloud Platform
+# Uber Data Analysis Project | Python | SQL | MAGE | Google Cloud Platform
 
 ## Introduction
 This project is done to showcase data analysis on Uber Data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
